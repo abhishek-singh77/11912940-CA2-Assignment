@@ -9,6 +9,7 @@
     --secondary-color-t: hsla(91, 60%, 62%, 0.9);
     --secondary-light-color: rgb(245, 245, 235);
     --secondary-light-color-t: hsla(51, 100%, 92%, 0.9);
+    --third-color: hsla(60, 1%, 14%, 0.9);
     --title-font-family: 'Times New Roman', Times, serif;
     --body-font-family: 'Vollkorn', serif;
   }
@@ -228,7 +229,7 @@
   
   .input, .button {
     border: 2px solid var(--secondary-color-t);
-    color: var(--primary-color-t);
+    color: var(--third-color);
     transition: 0.5s;
   }
   
