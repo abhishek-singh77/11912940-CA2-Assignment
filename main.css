@@ -160,9 +160,8 @@
         height: 100%;
     }
     .logo-img {
-        position: absolute;
-        top: 1rem;
-        left: 0;
+        position: relative;
+        left: -45px;
         max-width: 100%;
         height: auto;
     }
